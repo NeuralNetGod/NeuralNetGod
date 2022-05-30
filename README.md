@@ -1,17 +1,16 @@
 
-<img width=1000 src='https://raw.githubusercontent.com/Ansh3101/Ansh3101/master/header.png'/>
 
-<h1 align='center'> Hey! 👋 Anshuman here </h1>
-
+<h1 align='center'> Hey! 👋 NNG here </h1>
 
 
 
+<!--
 <h2> About </h2>
 
 Hi! I'm Anshuman Tekriwal. I enjoy working with Artifical Intelligence & Machine Learning; My Deep Learning framework of choice is Tensorflow though I work with PyTorch as well as SciKit-Learn for the more traditional techniques like Random Forests or SVMs.
 
 I was a finalist in the Articial Intelligence International Junior Contest in the AI In GeoServices track as well as The National Technological Olympiad (2021-22) in The Machine Learning division.
-
+-->
 
 <h2> Skills </h2>
 
@@ -20,31 +19,12 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - JavaScript
   - Node.JS
   - React.JS
-  - React Native
 - Python
   - TensorFlow
-  - PyTorch
-  - Flask
-  - Django
-- R
-- Swift
-- Java
-    - Kotlin
 
 
 <h2> Repositories </h2>
 
-### [Papers](https://github.com/Ansh3101/Papers/)
-
-<b>Basic Implementations Of Some Of The Most Significant Papers Published In Reference To The Advancement Of Deep Learning</b>
-
-- #### [LeNet](https://github.com/Ansh3101/Papers/blob/main/LeNet/LeNet.py) 
-
-- #### [VGG](https://github.com/Ansh3101/Papers/blob/main/VGG/VGG.py) 
-
-- #### [GoogLeNet](https://github.com/Ansh3101/Papers/blob/main/GoogLeNet/GoogLeNet.py)
-
-- #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/ResNet.py)
 
 <br />
 <h2> Organizations </h2>
@@ -56,22 +36,14 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 <h2> Contact Me </h2>
 
 E-Mail: 
-        
-        tekriwalanshuman@gmail.com
-        
-        anshumantekriwalcode@gmail.com
 
 Instagram:
-        
-        ansh.3101
-        
+                
 Twitter:
         
-        Ansh_3101
         
 Discord:
         
-        Ansh3101#9783
         
 
 
@@ -81,7 +53,7 @@ Discord:
 <b><i>PROFILE VIEWS -  </i></b>
 
 
-![](https://profile-counter.glitch.me/Ansh3101/count.svg)
+![](https://profile-counter.glitch.me/NeuralNetGod/count.svg)
 
 
 
@@ -89,11 +61,11 @@ Discord:
 <br />
 <b><i>CONTRIBUTIONS - </i> </b>
   <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NeuralNetGod&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Ansh3101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NeuralNetGod&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=NeuralNetGod&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 
   <!--
 
